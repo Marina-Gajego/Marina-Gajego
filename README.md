@@ -7,15 +7,7 @@
 - 🌱 Atualmente estou aprendendo automação de testes
 - 🌱 Sou estudante de Engenharia de Software
 - 💬 Pergunte-me sobre o que precisar :)
-- 📫 Como entrar em contato comigo: marinagajego1377@gmail.com
 - 😄 Pronomes: Ela/Dela
-
-## Estou aprendendo
-Robot Framework
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
 ## Contatos:
 <div>
