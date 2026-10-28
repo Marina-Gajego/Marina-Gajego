@@ -1,5 +1,5 @@
 name: Gerar cobrinha das contribuições
- 
+
 on:
   schedule:
     - cron: "0 */12 * * *" # atualiza a cada 12h
@@ -7,23 +7,23 @@ on:
   push:
     branches:
       - main
- 
+
 permissions:
   contents: write
- 
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Gerar SVGs da cobrinha
+      - name: Gerar SVGs da cobrinha (tons de azul)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
- 
+            dist/github-snake.svg?color_snake=#1f6feb&color_dots=#ebedf0,#bfe3ff,#7cc4ff,#3a8eff,#1f5fd1
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#0c2d6b,#1f4fa8,#2f74e0,#58a6ff
+
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -31,4 +31,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 
