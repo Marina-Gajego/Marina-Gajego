@@ -1,4 +1,4 @@
-ame: Gerar cobrinha das contribuições
+name: Gerar cobrinha das contribuições
  
 on:
   schedule:
