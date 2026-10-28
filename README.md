@@ -1,84 +1,31 @@
-### <div align="center">😀 Hi, I'm Marina, I'm currently working in the software quality area as a software test analyst (QA)</div>  
-  
+<!-- Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:2ea043&height=200&section=header&text=Marina%20Gajego&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engenheira%20de%20Qualidade%20de%20Software%20%E2%80%A2%20QA%20%2B%20IA&descSize=18&descAlignY=58&animation=fadeIn" alt="Marina Gajego - Engenheira de Qualidade de Software" /> </p> <p align="center"> <a href="https://github.com/Marina-Gajego"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+de+testes+E2E+e+API;Playwright+%2B+TypeScript+%7C+Java+%2B+REST+Assured;Agentes+de+IA+aplicados+a+QA;Qualidade+%C3%A9+parte+do+produto%2C+n%C3%A3o+uma+etapa" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/marina-gajego-abb741209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:gajego.marina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> <img src="https://komarev.com/ghpvc/?username=Marina-Gajego&style=for-the-badge&color=6e40c9&label=VISITAS" alt="Visitas ao perfil" /> </p>
+💜 Sobre mim
+🧪 Engenheira de Qualidade de Software na Matera
+🤖 Estudando e aplicando IA no dia a dia de QA: agentes (Claude Code, Copilot, Codex, Gemini), Playwright MCP e workflows BMad TEA
+🎭 Automação E2E com Playwright + TypeScript e API com Java + REST Assured + Cucumber
+🔁 Testes integrados a CI/CD, com validação em banco e contratos com JSON Schema
+📍 Ribeirão Preto, São Paulo, Brasil
+🦖 Fun fact: sou apaixonada por dinossauros
+🚀 Projetos em destaque
+<p align="center"> <a href="https://github.com/Marina-Gajego/qa-skills"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marina-Gajego&repo=qa-skills&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="qa-skills" /> </a> <a href="https://github.com/Marina-Gajego/lunarpass-playwright-tests"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marina-Gajego&repo=lunarpass-playwright-tests&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="lunarpass-playwright-tests" /> </a> <a href="https://github.com/Marina-Gajego/serverest-bmad-tea-automation-qa"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marina-Gajego&repo=serverest-bmad-tea-automation-qa&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="serverest-bmad-tea-automation-qa" /> </a> </p>
+Projeto	O que é
+🧠 qa-skills	Framework de QA com IA: skills reutilizáveis que ensinam agentes a trabalhar como uma QA experiente
+🎭 lunarpass-playwright-tests	Testes E2E com Playwright + TypeScript, Page Objects, validação no banco e agentes de IA
+☕ serverest-bmad-tea-automation-qa	Automação de API com Java, REST Assured, Cucumber e JSON Schema guiada por BMad TEA
+🛠️ Stack
 
-- 🔭 I tend to be creating several repositories to store learning projects and courses  
-  
+Automação de testes
 
-- 🌱 I'm currently learning test automation with robot framekork   
-  
+<p> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" /> <img src="https://img.shields.io/badge/JSON%20Schema-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
 
-- ❓ Pergunte-me sobre qualquer coisa relacionada à testes de software e tecnologias relacionadas  
-  
+Linguagens e ferramentas
 
-- ⚡ Fun fact: I love dinosaurs  
-  
+<p> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,java,python,maven,nodejs,postgres,git,github,githubactions,docker,vscode,idea&theme=dark" /></a> </p>
 
-<br/>  
+IA aplicada a QA
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Marina-Gajego" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marina-gajego-abb741209/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/marinagajego" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Marina-Gajego&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tm10ei642cb83ckjg77gf1172&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Marina-Gajego&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright%20MCP-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/BMad%20Method-6E40C9?style=for-the-badge" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marina-Gajego&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Estatísticas" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marina-Gajego&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Marina-Gajego&theme=tokyonight&hide_border=true&background=0D1117&locale=pt_BR" alt="Sequência de contribuições" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marina-Gajego&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Gráfico de atividade" /> </p>
+🐍 Cobrinha comendo minhas contribuições
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marina-Gajego/Marina-Gajego/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marina-Gajego/Marina-Gajego/output/github-snake.svg" /> <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Marina-Gajego/Marina-Gajego/output/github-snake-dark.svg" /> </picture> </p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:6e40c9,100:0d1117&height=120&section=footer" /> </p>
